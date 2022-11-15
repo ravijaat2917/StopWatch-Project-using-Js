@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: antiquewhite;
+}
 .container{
     display: flex;
     justify-content: center;
